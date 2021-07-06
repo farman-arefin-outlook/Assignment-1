@@ -70,6 +70,7 @@ h2{
 }
 .third-1{
     text-align: center;
+    padding-bottom: 35px;
 }
 .third-1 p{
      font-size: 15px;
@@ -77,17 +78,51 @@ h2{
     margin-left: 350px;
     padding-bottom: 25px;
 }
-
+.third-2{
+    margin-right: 15px;
+    margin-left: 15px;
+}
 .third-2 img{
      width: 100%;
 }
 .third-2-1{
-    width: 30%;
+    width: 25%;
+    text-align: justify;
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding:15px;
+    border-radius: 15px;
+    padding-bottom: 10px;
 }
 .third-2-2{
-    width: 30%;
+    width: 25%;
+    text-align: justify;
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding:15px;
+    border-radius: 15px;
+    padding-bottom: 10px;
 }
 .third-2-3{
-    width: 30%;
+    width: 25%;
+    text-align: justify;
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding:15px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
+
+.third-2-4{
+    box-shadow: 5px 5px 10px 15px gray;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.third-2-4 div{
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
