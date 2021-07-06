@@ -1,3 +1,43 @@
 body{
-    font-family: 'Lobster', cursive;
+   font-family: 'Poppins', sans-serif;
 }
+
+body h1{
+    font-size: 50px;
+}
+body p{
+    text-align: justify;
+    font-size: 30px;
+}
+.orange-color{
+    color: orange;
+}
+.first img{
+    width: 100%;
+}
+.first h1{
+    width: 50%;
+}
+.first{
+    margin-left: 30px;
+}
+.second{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;   
+}
+.second img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    font-weight: 800;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border-radius: 25px;
+}
+.flex-item{
+    display: flex;
+}
+
