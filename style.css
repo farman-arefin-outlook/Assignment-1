@@ -48,7 +48,9 @@ h2{
 }
 .second{
     background-image: url(images/shapes/7.png);
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat; 
+    margin-bottom: 150px;  
+    margin-top: 150px;
 }
 
 
@@ -71,9 +73,21 @@ h2{
 }
 .third-1 p{
      font-size: 15px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 350px;
+    margin-left: 350px;
     padding-bottom: 25px;
 }
 
+.third-2 img{
+     width: 100%;
+}
+.third-2-1{
+    width: 30%;
+}
+.third-2-2{
+    width: 30%;
+}
+.third-2-3{
+    width: 30%;
+}
 
