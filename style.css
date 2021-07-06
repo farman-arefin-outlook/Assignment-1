@@ -117,13 +117,19 @@ h2{
 }
 
 .third-2-4{
-    box-shadow: 5px 5px 10px gray;
-    margin-left: 45px;
-    margin-right: 45px;
+    box-shadow: 5px 5px 15px gray;
+    margin-left: 50px;
+    margin-right: 50px;
     border-radius: 15px;
 }
 .third-2-4 div{
     margin-left: 150px;
     margin-right: 150px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    margin:0px;
+    padding-top: 5px;
 }
 
