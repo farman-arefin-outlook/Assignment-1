@@ -2,8 +2,11 @@ body{
    font-family: 'Poppins', sans-serif;
 }
 
-body h1{
+h1{
     font-size: 50px;
+}
+h2{
+    font-size: 40px;
 }
 body p{
     text-align: justify;
@@ -25,19 +28,27 @@ body p{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;   
 }
-.second img{
-    width: 100%;
+.second-1 img{
+    width: 30%;
+    height: 70%;
+}
+.second-2{
+    width: 30%;
+    height: auto;
+    padding-right: 10px;
+    margin-right: 30px;
 }
 
 .link-button{
     text-decoration: none;
     font-weight: 800;
     color: white;
-    background-image: linear-gradient(orange,tomato);
+    background-image: linear-gradient(rgb(235, 130, 11),tomato);
     padding: 10px 30px;
     border-radius: 25px;
 }
 .flex-item{
     display: flex;
+    margin-bottom: 150px;
 }
 
